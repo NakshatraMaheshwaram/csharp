@@ -1,0 +1,8 @@
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\bin\Debug\EventManagement.exe.config
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\bin\Debug\EventManagement.exe
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\bin\Debug\EventManagement.pdb
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\obj\Debug\EventManagement.csproj.AssemblyReference.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\obj\Debug\EventManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\obj\Debug\EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\obj\Debug\EventManagement.exe
+C:\Users\chandrashekar\OneDrive\Desktop\local\EventManagement\obj\Debug\EventManagement.pdb
