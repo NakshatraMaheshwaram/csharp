@@ -1,0 +1,14 @@
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\bin\Debug\net6.0\EF.Data.deps.json
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\bin\Debug\net6.0\EF.Data.runtimeconfig.json
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\bin\Debug\net6.0\EF.Data.dll
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\bin\Debug\net6.0\EF.Data.pdb
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.csproj.AssemblyReference.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.AssemblyInfoInputs.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.AssemblyInfo.cs
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.csproj.CoreCompileInputs.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.dll
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\refint\EF.Data.dll
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.pdb
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\EF.Data.genruntimeconfig.cache
+C:\Users\chandrashekar\OneDrive\Desktop\local\EF.Data\obj\Debug\net6.0\ref\EF.Data.dll
